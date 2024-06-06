@@ -1,4 +1,4 @@
-# FoodRecommendationSystem-GeneticAlgorithm
+# Food Recommendation System with Genetic Algorithm
 
 ### ⭐ Project Name : Foodbank-Data-based Diet Recommendations 
 #### ⌛ Related Class : Genetic Algorithm
